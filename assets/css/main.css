@@ -94,7 +94,7 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
-	 body {
+	body {
 		background: red !important;
 		background-size: cover !important;
 	}
