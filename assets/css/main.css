@@ -95,8 +95,8 @@ input, select, textarea {
 	}
 
 	body {
-		background: url('images/edited_haleakela_reu-5773.jpg') no-repeat center center fixed;
-		background-size: cover;
+		background: url('images/edited_haleakela_reu-5773.jpg') no-repeat center center fixed !important;
+		background-size: cover !important;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
