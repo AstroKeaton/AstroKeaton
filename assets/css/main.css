@@ -94,9 +94,8 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
-	html body {
-		background: url('assets/css/edited_haleakela_reu-5773 (1).jpg') no-repeat center center fixed;
-		background-size: cover;
+	 body {
+		background: red !important;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
