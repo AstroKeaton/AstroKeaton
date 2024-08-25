@@ -95,7 +95,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #1b1f22 url('images/edited_haleakela_reu-5773.jpg') no-repeat center center fixed;
+		background: url('images/edited_haleakela_reu-5773.jpg') no-repeat center center fixed;
 		background-size: cover;
 	}
 
